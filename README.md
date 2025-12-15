@@ -26,7 +26,7 @@ This project analyzes customer churn for an Internet Service Provider (ISP) usin
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/isp-churn-analysis.git
+git clone https://github.com/obuyaochieng/isp-churn-analysis.git
 
 # Navigate to project directory
 cd isp-churn-analysis
