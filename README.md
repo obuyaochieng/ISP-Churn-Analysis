@@ -193,8 +193,7 @@ Project Link: https://github.com/obuyaochieng/isp-churn-analysis](https://github
 
 ## 📊 Sample Visualizations
 
-![Churn Distribution](https://via.placeholder.com/800x400.png?text=Churn+Distribution+Chart)
-![Tenure Analysis](https://via.placeholder.com/800x400.png?text=Tenure+vs+Churn+Analysis)
+
 
 ---
 
